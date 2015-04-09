@@ -45,7 +45,7 @@ img[src*="red.png"], img[src*="red_anime.gif"] {
 }
 
 img[src*="headshot.png"] {
-    content: url('/jenkins-clean-theme/headshot2.png');
+    content: url('/jenkins-fohr-theme/headshot-fohr.png');
 }
 
 img[src*="_anime.gif"] {
